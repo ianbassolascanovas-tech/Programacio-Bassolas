@@ -6,5 +6,5 @@ Cognoms- Bassolas Canovas
 Classe- 1r B
 Modalitat- Social
 
-Presentació:
-ajfpepinillo
+Presentacio:
+pepinillo
