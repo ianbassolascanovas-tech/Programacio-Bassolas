@@ -1,1 +1,26 @@
+nom1= input("introdueix el primer numero: ")
+nom2= input("introdueix el segon numero: ")
 
+print("OPERACIONS MATEMATIQUES")
+print("La suma dels dos numeros es: ", int(nom1) + int(nom2))
+print("La resta dels dos numeros es: ", int(nom1) - int(nom2))
+print("La multiplicacio dels dos numeros es: ", int(nom1) * int(nom2))
+print("La divisió dels dos numeros es: ", int(nom1) / int(nom2))
+print("La divisió entera es: ", int(nom1) // int(nom2))
+print("El modul és: ", int(nom1) % int(nom2))
+print("La potencia és: ", int(nom1) ** int(nom2))
+
+#Intercanvi de variables
+
+
+#textos
+t1=input("Escriu un text: ")
+t2=input("Escriu un altre text: ")
+
+print("OPERACIONS AMB TEXTOS")
+print("El text concatenat es: ", t1 + " " + t2)
+print("La multiplicació del text es: ", t1 * 3)
+
+
+
+print("")
