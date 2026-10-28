@@ -1,1 +1,42 @@
+print("")
 
+
+#Números
+n1=int(input("Introdueix un número: "))
+n2=int(input("Introdueix un altre número: "))
+
+#Simplificació de l'inf en una línia
+#inf (n1+n1 > 10) and print("La suma dels dos números és major que 10")
+
+if (n1+n2 > 10): {
+
+} 
+
+else: {
+    print('la seva suma és més petita que 10')
+}
+
+# Sense fer servir les claus
+'''
+if (n1+n2 > 10):
+    print("La suma dels dos números és major que 10")
+else:
+    print('la seva suma és més petita que 10')
+'''
+#Sense operador
+'''
+if (suma > 4):
+    print("La suma dels dos números és major que 4")
+if suma( > 4):
+    print("La suma dels dos números és major que 4")
+'''
+
+#Operador or (o)
+if (suma > 8) or (suma > 4): {
+    print("La suma dels dos números és major que 4 o el primer número és major que 4")
+}
+
+#Operador and (i)
+if (suma > 12) and (suma > 18): {
+    print("La suma dels dos números és major que 12 i el primer número és major que 18")
+}
